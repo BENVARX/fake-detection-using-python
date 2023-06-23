@@ -1,0 +1,7 @@
+text,sentiment
+I love this place,positive
+This movie is amazing,positive
+I am happy today,positive
+The food was terrible,negative
+I didn't enjoy the show,negative
+This product is disappointing,negative

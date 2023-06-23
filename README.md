@@ -1,1 +1,1 @@
-# fake-detection-using-python
+# fake-news-detection-using-python
